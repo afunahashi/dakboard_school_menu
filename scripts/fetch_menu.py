@@ -39,7 +39,7 @@ def recipes_from_meal(meal):
         for recipe in cat.get("Recipes", []):
             name = (recipe.get("RecipeName") or "").strip()
         if name and name not in SKIP_LUNCH_ITEMS and name not in out:
-    out.append(name)
+            out.append(name)
 
 def include_breakfast(meal_name):
     return meal_name in BREAKFAST_MEALS
