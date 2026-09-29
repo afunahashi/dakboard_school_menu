@@ -1,6 +1,6 @@
 {
   "weekLabel": "Sep 28 – Oct 2, 2026",
-  "updatedAt": "2026-09-28T23:13:11.758706-04:00",
+  "updatedAt": "2026-09-28T23:23:52.723197-04:00",
   "days": [
     {
       "iso": "2026-09-28",
@@ -32,14 +32,6 @@
         {
           "name": "BBQ Chickenless Bites",
           "note": "Vegetarian"
-        },
-        {
-          "name": "Bagel Bag Kit",
-          "note": "Grab & Go"
-        },
-        {
-          "name": "Sunbutter & Jelly Kit",
-          "note": "Grab & Go"
         }
       ]
     },
@@ -69,14 +61,6 @@
         {
           "name": "Cheese Quesadilla",
           "note": "Vegetarian"
-        },
-        {
-          "name": "Bagel Bag Kit",
-          "note": "Grab & Go"
-        },
-        {
-          "name": "Sunbutter & Jelly Kit",
-          "note": "Grab & Go"
         }
       ]
     },
@@ -106,14 +90,6 @@
         {
           "name": "Homemade Macaroni & Cheese",
           "note": "Vegetarian"
-        },
-        {
-          "name": "Bagel Bag Kit",
-          "note": "Grab & Go"
-        },
-        {
-          "name": "Sunbutter & Jelly Kit",
-          "note": "Grab & Go"
         }
       ]
     },
@@ -147,14 +123,6 @@
         {
           "name": "Veggie Burger",
           "note": "Vegetarian"
-        },
-        {
-          "name": "Bagel Bag Kit",
-          "note": "Grab & Go"
-        },
-        {
-          "name": "Sunbutter & Jelly Kit",
-          "note": "Grab & Go"
         }
       ]
     },
@@ -184,14 +152,6 @@
         {
           "name": "Four Cheese Pizza",
           "note": "Vegetarian"
-        },
-        {
-          "name": "Bagel Bag Kit",
-          "note": "Grab & Go"
-        },
-        {
-          "name": "Sunbutter & Jelly Kit",
-          "note": "Grab & Go"
         }
       ]
     }
