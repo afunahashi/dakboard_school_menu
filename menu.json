@@ -1,0 +1,72 @@
+{
+  "weekLabel": "Sample Week",
+  "updatedAt": "2026-09-28T22:00:00-04:00",
+  "days": [
+    {
+      "iso": "2026-09-28",
+      "weekday": "MONDAY",
+      "displayDate": "Sep 28",
+      "breakfast": [
+        {
+          "name": "Pepperoni Bosco Stick",
+          "note": ""
+        },
+        {
+          "name": "Breakfast Maple Belgian Waffle",
+          "note": ""
+        },
+        {
+          "name": "Peach Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "BBQ Drumstick + Mini Corn Bread",
+          "note": ""
+        },
+        {
+          "name": "BBQ Chickenless Bites",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Bagel Bag Kit",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-09-29",
+      "weekday": "TUESDAY",
+      "displayDate": "Sep 29",
+      "breakfast": [],
+      "lunch": []
+    },
+    {
+      "iso": "2026-09-30",
+      "weekday": "WEDNESDAY",
+      "displayDate": "Sep 30",
+      "breakfast": [],
+      "lunch": [
+        {
+          "name": "Savory Breaded Chicken Sandwich",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "iso": "2026-10-01",
+      "weekday": "THURSDAY",
+      "displayDate": "Oct 1",
+      "breakfast": [],
+      "lunch": []
+    },
+    {
+      "iso": "2026-10-02",
+      "weekday": "FRIDAY",
+      "displayDate": "Oct 2",
+      "breakfast": [],
+      "lunch": []
+    }
+  ]
+}
