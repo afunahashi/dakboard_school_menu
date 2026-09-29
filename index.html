@@ -56,7 +56,7 @@ fetch("./menu.json?ts="+Date.now(), {cache:"no-store"}).then(r => {
     return `<section class="day ${d.iso===today?"today":""}">
       <div class="head"><div class="dow">${esc(d.weekday)}</div><div class="date">${esc(d.displayDate)}</div></div>
       <div class="meal"><div class="label">🍳 BREAKFAST</div>${meals("breakfast")}</div>
-      <div class="meal"><div class="label">🍎 LUNCH</div>${meals("lunch")}</div>
+      <div class="meal"><div class="label">🥪 LUNCH</div>${meals("lunch")}</div>
     </section>`;
   }).join("");
   document.getElementById("content").innerHTML = `<div class="grid">${cards}</div>`;
