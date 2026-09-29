@@ -1,6 +1,6 @@
 {
-  "weekLabel": "Sample Week",
-  "updatedAt": "2026-09-28T22:00:00-04:00",
+  "weekLabel": "Sep 28 – Oct 2, 2026",
+  "updatedAt": "2026-09-28T23:01:46.551362-04:00",
   "days": [
     {
       "iso": "2026-09-28",
@@ -12,7 +12,7 @@
           "note": ""
         },
         {
-          "name": "Breakfast Maple Belgian Waffle",
+          "name": "Breakfast Maple Beligan Waffle",
           "note": ""
         },
         {
@@ -22,7 +22,11 @@
       ],
       "lunch": [
         {
-          "name": "BBQ Drumstick + Mini Corn Bread",
+          "name": "BBQ Drumstick",
+          "note": ""
+        },
+        {
+          "name": "Mini Corn Bread",
           "note": ""
         },
         {
@@ -32,6 +36,10 @@
         {
           "name": "Bagel Bag Kit",
           "note": "Grab & Go"
+        },
+        {
+          "name": "Sunbutter & Jelly Kit",
+          "note": "Grab & Go"
         }
       ]
     },
@@ -39,18 +47,73 @@
       "iso": "2026-09-29",
       "weekday": "TUESDAY",
       "displayDate": "Sep 29",
-      "breakfast": [],
-      "lunch": []
+      "breakfast": [
+        {
+          "name": "Chicken Biscuit Sandwich",
+          "note": ""
+        },
+        {
+          "name": "French Toast Sticks",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Beef Soft Taco",
+          "note": ""
+        },
+        {
+          "name": "Cheese Quesadilla",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Bagel Bag Kit",
+          "note": "Grab & Go"
+        },
+        {
+          "name": "Sunbutter & Jelly Kit",
+          "note": "Grab & Go"
+        }
+      ]
     },
     {
       "iso": "2026-09-30",
       "weekday": "WEDNESDAY",
       "displayDate": "Sep 30",
-      "breakfast": [],
+      "breakfast": [
+        {
+          "name": "Breakfast Burrito",
+          "note": ""
+        },
+        {
+          "name": "Mini Maple Pancakes",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
       "lunch": [
         {
           "name": "Savory Breaded Chicken Sandwich",
           "note": ""
+        },
+        {
+          "name": "Homemade Macaroni & Cheese",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Bagel Bag Kit",
+          "note": "Grab & Go"
+        },
+        {
+          "name": "Sunbutter & Jelly Kit",
+          "note": "Grab & Go"
         }
       ]
     },
@@ -58,15 +121,79 @@
       "iso": "2026-10-01",
       "weekday": "THURSDAY",
       "displayDate": "Oct 1",
-      "breakfast": [],
-      "lunch": []
+      "breakfast": [
+        {
+          "name": "Bagel",
+          "note": ""
+        },
+        {
+          "name": "Pumpkin Bread",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Cheeseburger",
+          "note": ""
+        },
+        {
+          "name": "Hamburger",
+          "note": ""
+        },
+        {
+          "name": "Veggie Burger",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Bagel Bag Kit",
+          "note": "Grab & Go"
+        },
+        {
+          "name": "Sunbutter & Jelly Kit",
+          "note": "Grab & Go"
+        }
+      ]
     },
     {
       "iso": "2026-10-02",
       "weekday": "FRIDAY",
       "displayDate": "Oct 2",
-      "breakfast": [],
-      "lunch": []
+      "breakfast": [
+        {
+          "name": "Turkey Bacon, Egg & Cheese Bagel",
+          "note": ""
+        },
+        {
+          "name": "Freshly Baked Glazed Cinnamon Roll",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Pepperoni Pizza",
+          "note": ""
+        },
+        {
+          "name": "Four Cheese Pizza",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Bagel Bag Kit",
+          "note": "Grab & Go"
+        },
+        {
+          "name": "Sunbutter & Jelly Kit",
+          "note": "Grab & Go"
+        }
+      ]
     }
   ]
 }
