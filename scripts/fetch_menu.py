@@ -14,6 +14,10 @@ BREAKFAST_MEALS = {
     "Yogurt Parfait of the Day",
 }
 LUNCH_PREFIXES = ("Hot Entree", "Cold Entree", "Grab", "Bagel", "Sunbutter")
+SKIP_LUNCH_ITEMS = {
+    "Bagel Bag Kit",
+    "Sunbutter & Jelly Kit",
+}
 SKIP_MEAL_WORDS = ("side", "milk", "condiment", "fruit", "vegetable")
 SKIP_CATEGORY_WORDS = ("milk", "condiment", "fruit", "juice", "vegetable")
 
@@ -34,9 +38,8 @@ def recipes_from_meal(meal):
             continue
         for recipe in cat.get("Recipes", []):
             name = (recipe.get("RecipeName") or "").strip()
-            if name and name not in out:
-                out.append(name)
-    return out
+        if name and name not in SKIP_LUNCH_ITEMS and name not in out:
+    out.append(name)
 
 def include_breakfast(meal_name):
     return meal_name in BREAKFAST_MEALS
