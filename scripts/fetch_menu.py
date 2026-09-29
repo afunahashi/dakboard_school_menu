@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 BUILDING_ID = "6b71bbc4-ead9-eb11-a2c4-daeb5c6bb933"
 DISTRICT_ID = "c48c6d9c-9ad9-eb11-a2c4-ae34736f1064"
 TZ = ZoneInfo("America/New_York")
-API = "https://api.linqconnect.com/api/FamilyMenu"
+API_URL = "https://gentle-sky-23c2.a-funahashi.workers.dev/menu"
 
 # Keep the useful choices; omit milk, fruit, juice, condiments, cereal, and sides.
 BREAKFAST_MEALS = {
