@@ -1,6 +1,6 @@
 {
   "weekLabel": "Sep 28 – Oct 2, 2026",
-  "updatedAt": "2026-09-30T07:11:57.635843-04:00",
+  "updatedAt": "2026-10-01T07:39:15.210913-04:00",
   "days": [
     {
       "iso": "2026-09-28",
@@ -70,10 +70,6 @@
           "note": ""
         },
         {
-          "name": "Mini Maple Pancakes",
-          "note": ""
-        },
-        {
           "name": "Peach Parfait",
           "note": ""
         }
@@ -86,6 +82,10 @@
         {
           "name": "Homemade Macaroni & Cheese",
           "note": "Vegetarian"
+        },
+        {
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Grab & Go"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "note": ""
         },
         {
-          "name": "Very Berry Parfait",
+          "name": "Peach Parfait",
           "note": ""
         }
       ],
@@ -119,6 +119,10 @@
         {
           "name": "Veggie Burger",
           "note": "Vegetarian"
+        },
+        {
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Grab & Go"
         }
       ]
     },
@@ -148,6 +152,10 @@
         {
           "name": "Four Cheese Pizza",
           "note": "Vegetarian"
+        },
+        {
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Grab & Go"
         }
       ]
     }
