@@ -1,6 +1,6 @@
 {
   "weekLabel": "Sep 28 – Oct 2, 2026",
-  "updatedAt": "2026-10-01T07:39:15.210913-04:00",
+  "updatedAt": "2026-10-02T07:08:57.484256-04:00",
   "days": [
     {
       "iso": "2026-09-28",
@@ -114,6 +114,14 @@
         },
         {
           "name": "Hamburger",
+          "note": ""
+        },
+        {
+          "name": "Homemade Macaroni & Cheese",
+          "note": ""
+        },
+        {
+          "name": "Savory Breaded Chicken Sandwich",
           "note": ""
         },
         {
