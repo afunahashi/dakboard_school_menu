@@ -1,6 +1,6 @@
 {
   "weekLabel": "Sep 28 – Oct 2, 2026",
-  "updatedAt": "2026-10-02T07:08:57.484256-04:00",
+  "updatedAt": "2026-10-03T06:26:52.830670-04:00",
   "days": [
     {
       "iso": "2026-09-28",
@@ -22,7 +22,7 @@
       ],
       "lunch": [
         {
-          "name": "BBQ Drumstick",
+          "name": "BBQ Drumstick - x",
           "note": ""
         },
         {
@@ -148,13 +148,25 @@
           "note": ""
         },
         {
-          "name": "Very Berry Parfait",
+          "name": "Peach Parfait",
           "note": ""
         }
       ],
       "lunch": [
         {
-          "name": "Pepperoni Pizza",
+          "name": "Cheeseburger",
+          "note": ""
+        },
+        {
+          "name": "Veggie Burger",
+          "note": ""
+        },
+        {
+          "name": "Turkey & Cheese Sandwich",
+          "note": ""
+        },
+        {
+          "name": "Turkey Pepperoni Pizza",
           "note": ""
         },
         {
