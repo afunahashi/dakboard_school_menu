@@ -88,6 +88,8 @@ def main():
     
     end = start + timedelta(days=4)
 
+    raw = fetch_json(start, end)
+
     days = {}
     for i in range(5):
         d = start + timedelta(days=i)
