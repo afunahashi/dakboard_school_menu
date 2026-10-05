@@ -3,7 +3,7 @@ name: Update and deploy school menu
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 5 * * *"
+    - cron: "15 */6 * * *"
      
   push:
     branches: [main]
