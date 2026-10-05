@@ -1,47 +1,14 @@
 {
-  "weekLabel": "Sep 28 – Oct 2, 2026",
-  "updatedAt": "2026-10-04T07:08:30.924662-04:00",
+  "weekLabel": "Oct 5 – Oct 9, 2026",
+  "updatedAt": "2026-10-05T08:19:39.657164-04:00",
   "days": [
     {
-      "iso": "2026-09-28",
+      "iso": "2026-10-05",
       "weekday": "MONDAY",
-      "displayDate": "Sep 28",
+      "displayDate": "Oct 5",
       "breakfast": [
         {
-          "name": "Pepperoni Bosco Stick",
-          "note": ""
-        },
-        {
-          "name": "Breakfast Maple Beligan Waffle",
-          "note": ""
-        },
-        {
-          "name": "Peach Parfait",
-          "note": ""
-        }
-      ],
-      "lunch": [
-        {
-          "name": "BBQ Drumstick - x",
-          "note": ""
-        },
-        {
-          "name": "Mini Corn Bread",
-          "note": ""
-        },
-        {
-          "name": "BBQ Chickenless Bites",
-          "note": "Vegetarian"
-        }
-      ]
-    },
-    {
-      "iso": "2026-09-29",
-      "weekday": "TUESDAY",
-      "displayDate": "Sep 29",
-      "breakfast": [
-        {
-          "name": "Chicken Biscuit Sandwich",
+          "name": "Cheese Bosco Stick",
           "note": ""
         },
         {
@@ -49,38 +16,21 @@
           "note": ""
         },
         {
-          "name": "Peach Parfait",
+          "name": "Pumpkin Spice Parfait",
           "note": ""
         }
       ],
       "lunch": [
         {
-          "name": "Cheese Quesadilla",
-          "note": "Vegetarian"
-        }
-      ]
-    },
-    {
-      "iso": "2026-09-30",
-      "weekday": "WEDNESDAY",
-      "displayDate": "Sep 30",
-      "breakfast": [
-        {
-          "name": "Breakfast Burrito",
+          "name": "Chicken Tenders",
           "note": ""
         },
         {
-          "name": "Peach Parfait",
-          "note": ""
-        }
-      ],
-      "lunch": [
-        {
-          "name": "Savory Breaded Chicken Sandwich",
+          "name": "Garlic Bread",
           "note": ""
         },
         {
-          "name": "Homemade Macaroni & Cheese",
+          "name": "Grilled Cheese Sandwich",
           "note": "Vegetarian"
         },
         {
@@ -90,12 +40,49 @@
       ]
     },
     {
-      "iso": "2026-10-01",
-      "weekday": "THURSDAY",
-      "displayDate": "Oct 1",
+      "iso": "2026-10-06",
+      "weekday": "TUESDAY",
+      "displayDate": "Oct 6",
       "breakfast": [
         {
-          "name": "Bagel",
+          "name": "Maple Chicken Sausage & Pancake Sandwich",
+          "note": ""
+        },
+        {
+          "name": "Apple Cinnamon Scone",
+          "note": ""
+        },
+        {
+          "name": "Pumpkin Spice Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Latin Seasoned Chicken",
+          "note": ""
+        },
+        {
+          "name": "Spanish Brown Rice",
+          "note": ""
+        },
+        {
+          "name": "Cheese Quesadilla",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-10-07",
+      "weekday": "WEDNESDAY",
+      "displayDate": "Oct 7",
+      "breakfast": [
+        {
+          "name": "Egg & Cheese Biscuit",
           "note": ""
         },
         {
@@ -103,29 +90,21 @@
           "note": ""
         },
         {
-          "name": "Peach Parfait",
+          "name": "Pumpkin Spice Parfait",
           "note": ""
         }
       ],
       "lunch": [
         {
-          "name": "Cheeseburger",
+          "name": "Alfredo Tortellini",
           "note": ""
         },
         {
-          "name": "Hamburger",
+          "name": "Garlic Bread",
           "note": ""
         },
         {
-          "name": "Homemade Macaroni & Cheese",
-          "note": ""
-        },
-        {
-          "name": "Savory Breaded Chicken Sandwich",
-          "note": ""
-        },
-        {
-          "name": "Veggie Burger",
+          "name": "Pizza Crunchers",
           "note": "Vegetarian"
         },
         {
@@ -135,38 +114,63 @@
       ]
     },
     {
-      "iso": "2026-10-02",
-      "weekday": "FRIDAY",
-      "displayDate": "Oct 2",
+      "iso": "2026-10-08",
+      "weekday": "THURSDAY",
+      "displayDate": "Oct 8",
       "breakfast": [
         {
-          "name": "Turkey Bacon, Egg & Cheese Bagel",
+          "name": "Bagel",
           "note": ""
         },
         {
-          "name": "Freshly Baked Glazed Cinnamon Roll",
+          "name": "Mini Maple Pancakes",
           "note": ""
         },
         {
-          "name": "Peach Parfait",
+          "name": "Pumpkin Spice Parfait",
           "note": ""
         }
       ],
       "lunch": [
         {
-          "name": "Cheeseburger",
+          "name": "General Tso Chicken",
           "note": ""
         },
         {
-          "name": "Veggie Burger",
+          "name": "Veggie Lo Mein",
           "note": ""
         },
         {
-          "name": "Turkey & Cheese Sandwich",
+          "name": "General Tso Chickenless Bites",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-10-09",
+      "weekday": "FRIDAY",
+      "displayDate": "Oct 9",
+      "breakfast": [
+        {
+          "name": "Breakfast Burrito",
           "note": ""
         },
         {
-          "name": "Turkey Pepperoni Pizza",
+          "name": "Breakfast Maple Beligan Waffle",
+          "note": ""
+        },
+        {
+          "name": "Pumpkin Spice Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Pepperoni Pizza",
           "note": ""
         },
         {
