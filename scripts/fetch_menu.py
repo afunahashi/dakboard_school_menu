@@ -79,9 +79,14 @@ def fetch_json(start, end):
 
 def main():
     today = datetime.now(TZ).date()
-    start = monday_of_week(today)
+    
+    # On Saturday or Sunday, show the upcoming school week.
+    if today.weekday() >= 5:
+        start = monday_of_week(today) + timedelta(days=7)
+    else:
+        start = monday_of_week(today)
+    
     end = start + timedelta(days=4)
-    raw = fetch_json(start, end)
 
     days = {}
     for i in range(5):
