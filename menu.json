@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 5 – Oct 9, 2026",
-  "updatedAt": "2026-10-08T09:26:12.109968-04:00",
+  "updatedAt": "2026-10-08T19:19:28.894450-04:00",
   "days": [
     {
       "iso": "2026-10-05",
@@ -151,7 +151,7 @@
           "note": ""
         },
         {
-          "name": "Pumpkin Spice Parfait",
+          "name": "Peach Parfait",
           "note": ""
         }
       ],
@@ -167,10 +167,6 @@
         {
           "name": "General Tso Chickenless Bites",
           "note": "Vegetarian"
-        },
-        {
-          "name": "SunButter & Jelly Sandwich",
-          "note": "Grab & Go"
         }
       ]
     },
@@ -200,10 +196,6 @@
         {
           "name": "Four Cheese Pizza",
           "note": "Vegetarian"
-        },
-        {
-          "name": "SunButter & Jelly Sandwich",
-          "note": "Grab & Go"
         }
       ]
     }
