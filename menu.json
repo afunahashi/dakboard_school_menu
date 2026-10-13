@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 12 – Oct 16, 2026",
-  "updatedAt": "2026-10-12T20:37:28.549823-04:00",
+  "updatedAt": "2026-10-13T18:42:52.669840-04:00",
   "days": [
     {
       "iso": "2026-10-12",
@@ -19,6 +19,18 @@
           "note": ""
         },
         {
+          "name": "Celebration Benefit Bar",
+          "note": ""
+        },
+        {
+          "name": "Banana Bread",
+          "note": ""
+        },
+        {
+          "name": "Super Donut",
+          "note": ""
+        },
+        {
           "name": "Mini Maple Pancakes",
           "note": ""
         },
@@ -33,12 +45,20 @@
           "note": ""
         },
         {
-          "name": "Breakfast Maple Beligan Waffle",
+          "name": "Belgian Waffle",
           "note": ""
         },
         {
           "name": "Chickenless Bites",
           "note": "Vegetarian"
+        },
+        {
+          "name": "Four Cheese Pizza",
+          "note": "Grab & Go"
+        },
+        {
+          "name": "Turkey Pepperoni Pizza",
+          "note": "Grab & Go"
         }
       ]
     },
