@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 12 – Oct 16, 2026",
-  "updatedAt": "2026-10-14T13:08:25.603188-04:00",
+  "updatedAt": "2026-10-14T17:39:22.820823-04:00",
   "days": [
     {
       "iso": "2026-10-12",
@@ -87,6 +87,22 @@
         },
         {
           "name": "Cheese Nachos",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Halal Breaded Chicken Sandwich",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Chicken Tenders",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Chickenless Bites",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Belgian Waffle",
           "note": "Vegetarian"
         }
       ]
