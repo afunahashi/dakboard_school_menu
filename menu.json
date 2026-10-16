@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 12 – Oct 16, 2026",
-  "updatedAt": "2026-10-16T12:36:57.418040-04:00",
+  "updatedAt": "2026-10-16T17:05:34.526733-04:00",
   "days": [
     {
       "iso": "2026-10-12",
@@ -86,19 +86,19 @@
           "note": ""
         },
         {
-          "name": "Cheese Nachos",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Halal Breaded Chicken Sandwich",
-          "note": "Vegetarian"
-        },
-        {
           "name": "Chicken Tenders",
           "note": "Vegetarian"
         },
         {
           "name": "Chickenless Bites",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Cheese Nachos",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Halal Breaded Chicken Sandwich",
           "note": "Vegetarian"
         },
         {
@@ -164,15 +164,19 @@
       ],
       "lunch": [
         {
-          "name": "Pepperoni Pizza",
-          "note": ""
-        },
-        {
           "name": "BBQ Chickenless Bites",
           "note": ""
         },
         {
+          "name": "Turkey Pepperoni Pizza",
+          "note": ""
+        },
+        {
           "name": "Four Cheese Pizza",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Garlic Bread",
           "note": "Vegetarian"
         }
       ]
