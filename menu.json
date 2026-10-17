@@ -1,119 +1,14 @@
 {
-  "weekLabel": "Oct 12 – Oct 16, 2026",
-  "updatedAt": "2026-10-16T17:05:34.526733-04:00",
+  "weekLabel": "Oct 19 – Oct 23, 2026",
+  "updatedAt": "2026-10-17T00:22:42.927174-04:00",
   "days": [
     {
-      "iso": "2026-10-12",
+      "iso": "2026-10-19",
       "weekday": "MONDAY",
-      "displayDate": "Oct 12",
-      "breakfast": [],
-      "lunch": []
-    },
-    {
-      "iso": "2026-10-13",
-      "weekday": "TUESDAY",
-      "displayDate": "Oct 13",
+      "displayDate": "Oct 19",
       "breakfast": [
         {
-          "name": "Cheese Bosco Stick",
-          "note": ""
-        },
-        {
-          "name": "Celebration Benefit Bar",
-          "note": ""
-        },
-        {
-          "name": "Banana Bread",
-          "note": ""
-        },
-        {
-          "name": "Super Donut",
-          "note": ""
-        },
-        {
-          "name": "Mini Maple Pancakes",
-          "note": ""
-        },
-        {
-          "name": "Peach Parfait",
-          "note": ""
-        }
-      ],
-      "lunch": [
-        {
-          "name": "Chicken Tenders",
-          "note": ""
-        },
-        {
-          "name": "Belgian Waffle",
-          "note": ""
-        },
-        {
-          "name": "Chickenless Bites",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Four Cheese Pizza",
-          "note": "Grab & Go"
-        },
-        {
-          "name": "Turkey Pepperoni Pizza",
-          "note": "Grab & Go"
-        }
-      ]
-    },
-    {
-      "iso": "2026-10-14",
-      "weekday": "WEDNESDAY",
-      "displayDate": "Oct 14",
-      "breakfast": [
-        {
-          "name": "Turkey Bacon, Egg & Cheese Bagel",
-          "note": ""
-        },
-        {
-          "name": "Pumpkin Bread",
-          "note": ""
-        },
-        {
-          "name": "Peach Parfait",
-          "note": ""
-        }
-      ],
-      "lunch": [
-        {
-          "name": "Beef Grande Nachos",
-          "note": ""
-        },
-        {
-          "name": "Chicken Tenders",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Chickenless Bites",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Cheese Nachos",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Halal Breaded Chicken Sandwich",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Belgian Waffle",
-          "note": "Vegetarian"
-        }
-      ]
-    },
-    {
-      "iso": "2026-10-15",
-      "weekday": "THURSDAY",
-      "displayDate": "Oct 15",
-      "breakfast": [
-        {
-          "name": "Egg & Cheese Biscuit",
+          "name": "Pepperoni Bosco Stick",
           "note": ""
         },
         {
@@ -121,36 +16,139 @@
           "note": ""
         },
         {
-          "name": "Peach Parfait",
+          "name": "Very Berry Parfait",
           "note": ""
         }
       ],
       "lunch": [
         {
-          "name": "Hot Wings",
+          "name": "BBQ Drumstick",
           "note": ""
         },
         {
-          "name": "BBQ Chicken Wings",
-          "note": ""
-        },
-        {
-          "name": "Garlic Bread",
+          "name": "Mini Corn Bread",
           "note": ""
         },
         {
           "name": "BBQ Chickenless Bites",
           "note": "Vegetarian"
+        },
+        {
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Vegetarian"
         }
       ]
     },
     {
-      "iso": "2026-10-16",
-      "weekday": "FRIDAY",
-      "displayDate": "Oct 16",
+      "iso": "2026-10-20",
+      "weekday": "TUESDAY",
+      "displayDate": "Oct 20",
+      "breakfast": [
+        {
+          "name": "Chicken Biscuit Sandwich",
+          "note": ""
+        },
+        {
+          "name": "French Toast Sticks",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Beef Soft Taco",
+          "note": ""
+        },
+        {
+          "name": "Cheese Quesadilla",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-10-21",
+      "weekday": "WEDNESDAY",
+      "displayDate": "Oct 21",
+      "breakfast": [
+        {
+          "name": "Breakfast Burrito",
+          "note": ""
+        },
+        {
+          "name": "Mini Maple Pancakes",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Savory Breaded Chicken Sandwich",
+          "note": ""
+        },
+        {
+          "name": "Homemade Macaroni & Cheese",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-10-22",
+      "weekday": "THURSDAY",
+      "displayDate": "Oct 22",
       "breakfast": [
         {
           "name": "Bagel",
+          "note": ""
+        },
+        {
+          "name": "Pumpkin Bread",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Cheeseburger",
+          "note": ""
+        },
+        {
+          "name": "Hamburger",
+          "note": ""
+        },
+        {
+          "name": "Veggie Burger",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-10-23",
+      "weekday": "FRIDAY",
+      "displayDate": "Oct 23",
+      "breakfast": [
+        {
+          "name": "Turkey Bacon, Egg & Cheese Bagel",
           "note": ""
         },
         {
@@ -158,17 +156,13 @@
           "note": ""
         },
         {
-          "name": "Peach Parfait",
+          "name": "Very Berry Parfait",
           "note": ""
         }
       ],
       "lunch": [
         {
-          "name": "BBQ Chickenless Bites",
-          "note": ""
-        },
-        {
-          "name": "Turkey Pepperoni Pizza",
+          "name": "Pepperoni Pizza",
           "note": ""
         },
         {
@@ -176,8 +170,8 @@
           "note": "Vegetarian"
         },
         {
-          "name": "Garlic Bread",
-          "note": "Vegetarian"
+          "name": "SunButter & Jelly Sandwich",
+          "note": "Grab & Go"
         }
       ]
     }
