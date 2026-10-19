@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 19 – Oct 23, 2026",
-  "updatedAt": "2026-10-19T09:09:53.096301-04:00",
+  "updatedAt": "2026-10-19T18:19:53.927717-04:00",
   "days": [
     {
       "iso": "2026-10-19",
@@ -9,6 +9,22 @@
       "breakfast": [
         {
           "name": "Pepperoni Bosco Stick",
+          "note": ""
+        },
+        {
+          "name": "Apple Cinnamon Scone",
+          "note": ""
+        },
+        {
+          "name": "Banana Bread",
+          "note": ""
+        },
+        {
+          "name": "Celebration Benefit Bar",
+          "note": ""
+        },
+        {
+          "name": "Super Donut",
           "note": ""
         },
         {
@@ -31,10 +47,6 @@
         },
         {
           "name": "BBQ Chickenless Bites",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "SunButter & Jelly Sandwich",
           "note": "Vegetarian"
         }
       ]
