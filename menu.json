@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 19 – Oct 23, 2026",
-  "updatedAt": "2026-10-20T13:00:28.259336-04:00",
+  "updatedAt": "2026-10-20T17:35:32.739435-04:00",
   "days": [
     {
       "iso": "2026-10-19",
@@ -79,8 +79,16 @@
           "note": "Vegetarian"
         },
         {
-          "name": "SunButter & Jelly Sandwich",
-          "note": "Grab & Go"
+          "name": "BBQ Chickenless Bites",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Roasted Drumstick",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "California Cornbread",
+          "note": "Vegetarian"
         }
       ]
     },
