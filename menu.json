@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 19 – Oct 23, 2026",
-  "updatedAt": "2026-10-22T13:08:34.377196-04:00",
+  "updatedAt": "2026-10-22T17:33:26.916020-04:00",
   "days": [
     {
       "iso": "2026-10-19",
@@ -75,15 +75,15 @@
           "note": ""
         },
         {
+          "name": "Roasted Drumstick",
+          "note": "Vegetarian"
+        },
+        {
           "name": "Cheese Quesadilla",
           "note": "Vegetarian"
         },
         {
           "name": "BBQ Chickenless Bites",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Roasted Drumstick",
           "note": "Vegetarian"
         },
         {
@@ -157,8 +157,12 @@
           "note": "Vegetarian"
         },
         {
-          "name": "SunButter & Jelly Sandwich",
-          "note": "Grab & Go"
+          "name": "Savory Breaded Chicken Sandwich",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Homemade Macaroni & Cheese",
+          "note": "Vegetarian"
         }
       ]
     },
