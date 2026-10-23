@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 19 – Oct 23, 2026",
-  "updatedAt": "2026-10-23T13:04:27.697244-04:00",
+  "updatedAt": "2026-10-23T17:23:03.160451-04:00",
   "days": [
     {
       "iso": "2026-10-19",
@@ -194,7 +194,11 @@
           "note": "Vegetarian"
         },
         {
-          "name": "SunButter & Jelly Sandwich",
+          "name": "Hamburger",
+          "note": "Grab & Go"
+        },
+        {
+          "name": "Veggie Burger",
           "note": "Grab & Go"
         }
       ]
