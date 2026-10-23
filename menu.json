@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 19 – Oct 23, 2026",
-  "updatedAt": "2026-10-23T00:46:02.676019-04:00",
+  "updatedAt": "2026-10-23T07:35:27.407133-04:00",
   "days": [
     {
       "iso": "2026-10-19",
@@ -75,15 +75,15 @@
           "note": ""
         },
         {
-          "name": "Roasted Drumstick",
-          "note": "Vegetarian"
-        },
-        {
           "name": "Cheese Quesadilla",
           "note": "Vegetarian"
         },
         {
           "name": "BBQ Chickenless Bites",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Roasted Drumstick",
           "note": "Vegetarian"
         },
         {
@@ -180,7 +180,7 @@
           "note": ""
         },
         {
-          "name": "Very Berry Parfait",
+          "name": "Peach Parfait",
           "note": ""
         }
       ],
