@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 26 – Oct 30, 2026",
-  "updatedAt": "2026-10-26T08:58:07.807695-04:00",
+  "updatedAt": "2026-10-26T18:38:20.901255-04:00",
   "days": [
     {
       "iso": "2026-10-26",
@@ -9,6 +9,10 @@
       "breakfast": [
         {
           "name": "Cheese Bosco Stick",
+          "note": ""
+        },
+        {
+          "name": "Apple Cinnamon Scone",
           "note": ""
         },
         {
@@ -34,8 +38,8 @@
           "note": "Vegetarian"
         },
         {
-          "name": "SunButter & Jelly Sandwich",
-          "note": "Grab & Go"
+          "name": "Four Cheese Pizza",
+          "note": "Vegetarian"
         }
       ]
     },
