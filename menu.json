@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 26 – Oct 30, 2026",
-  "updatedAt": "2026-10-28T08:50:44.955752-04:00",
+  "updatedAt": "2026-10-28T18:33:02.196662-04:00",
   "days": [
     {
       "iso": "2026-10-26",
@@ -117,6 +117,18 @@
         },
         {
           "name": "Four Cheese Pizza",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Cheese Quesadilla",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Latin Seasoned Chicken",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Spanish Brown Rice",
           "note": "Vegetarian"
         },
         {
