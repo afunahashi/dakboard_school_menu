@@ -1,6 +1,6 @@
 {
   "weekLabel": "Oct 26 – Oct 30, 2026",
-  "updatedAt": "2026-10-30T01:44:34.677838-04:00",
+  "updatedAt": "2026-10-30T08:50:41.305374-04:00",
   "days": [
     {
       "iso": "2026-10-26",
@@ -71,10 +71,6 @@
           "note": ""
         },
         {
-          "name": "Chicken Tenders",
-          "note": "Vegetarian"
-        },
-        {
           "name": "Cheese Quesadilla",
           "note": "Vegetarian"
         },
@@ -84,6 +80,10 @@
         },
         {
           "name": "Halal Burger",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Chicken Tenders",
           "note": "Vegetarian"
         },
         {
