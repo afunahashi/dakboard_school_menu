@@ -1,26 +1,36 @@
 {
-  "weekLabel": "Oct 26 – Oct 30, 2026",
-  "updatedAt": "2026-10-30T18:17:12.598701-04:00",
+  "weekLabel": "Nov 2 – Nov 6, 2026",
+  "updatedAt": "2026-10-31T01:37:26.676342-04:00",
   "days": [
     {
-      "iso": "2026-10-26",
+      "iso": "2026-11-02",
       "weekday": "MONDAY",
-      "displayDate": "Oct 26",
+      "displayDate": "Nov 2",
+      "breakfast": [],
+      "lunch": []
+    },
+    {
+      "iso": "2026-11-03",
+      "weekday": "TUESDAY",
+      "displayDate": "Nov 3",
+      "breakfast": [],
+      "lunch": []
+    },
+    {
+      "iso": "2026-11-04",
+      "weekday": "WEDNESDAY",
+      "displayDate": "Nov 4",
       "breakfast": [
         {
           "name": "Cheese Bosco Stick",
           "note": ""
         },
         {
-          "name": "Apple Cinnamon Scone",
+          "name": "Mini Maple Pancakes",
           "note": ""
         },
         {
-          "name": "French Toast Sticks",
-          "note": ""
-        },
-        {
-          "name": "Pumpkin Spice Parfait",
+          "name": "Peach Parfait",
           "note": ""
         }
       ],
@@ -30,83 +40,67 @@
           "note": ""
         },
         {
-          "name": "Garlic Bread",
+          "name": "Breakfast Maple Beligan Waffle",
           "note": ""
         },
         {
-          "name": "Grilled Cheese Sandwich",
+          "name": "Chickenless Bites",
           "note": "Vegetarian"
         },
         {
-          "name": "Four Cheese Pizza",
-          "note": "Vegetarian"
+          "name": "Crispy Chicken Caesar Salad",
+          "note": "Grab & Go"
         }
       ]
     },
     {
-      "iso": "2026-10-27",
-      "weekday": "TUESDAY",
-      "displayDate": "Oct 27",
-      "breakfast": [
-        {
-          "name": "Maple Chicken Sausage & Pancake Sandwich",
-          "note": ""
-        },
-        {
-          "name": "Apple Cinnamon Scone",
-          "note": ""
-        },
-        {
-          "name": "Pumpkin Spice Parfait",
-          "note": ""
-        }
-      ],
-      "lunch": [
-        {
-          "name": "Latin Seasoned Chicken",
-          "note": ""
-        },
-        {
-          "name": "Spanish Brown Rice",
-          "note": ""
-        },
-        {
-          "name": "Cheese Quesadilla",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Grilled Cheese Sandwich",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Halal Burger",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Chicken Tenders",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Garlic Bread",
-          "note": "Vegetarian"
-        }
-      ]
-    },
-    {
-      "iso": "2026-10-28",
-      "weekday": "WEDNESDAY",
-      "displayDate": "Oct 28",
+      "iso": "2026-11-05",
+      "weekday": "THURSDAY",
+      "displayDate": "Nov 5",
       "breakfast": [
         {
           "name": "Egg & Cheese Biscuit",
           "note": ""
         },
         {
-          "name": "Pumpkin Bread",
+          "name": "Breakfast Maple Beligan Waffle",
           "note": ""
         },
         {
-          "name": "Pumpkin Spice Parfait",
+          "name": "Peach Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Beef Grande Nachos",
+          "note": ""
+        },
+        {
+          "name": "Cheese Nachos",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Beef Taco Salad",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-11-06",
+      "weekday": "FRIDAY",
+      "displayDate": "Nov 6",
+      "breakfast": [
+        {
+          "name": "Bagel",
+          "note": ""
+        },
+        {
+          "name": "Freshly Baked Glazed Cinnamon Roll",
+          "note": ""
+        },
+        {
+          "name": "Peach Parfait",
           "note": ""
         }
       ],
@@ -120,36 +114,10 @@
           "note": "Vegetarian"
         },
         {
-          "name": "Cheese Quesadilla",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Latin Seasoned Chicken",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Spanish Brown Rice",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "SunButter & Jelly Sandwich",
+          "name": "Crispy Chicken Caesar Salad",
           "note": "Grab & Go"
         }
       ]
-    },
-    {
-      "iso": "2026-10-29",
-      "weekday": "THURSDAY",
-      "displayDate": "Oct 29",
-      "breakfast": [],
-      "lunch": []
-    },
-    {
-      "iso": "2026-10-30",
-      "weekday": "FRIDAY",
-      "displayDate": "Oct 30",
-      "breakfast": [],
-      "lunch": []
     }
   ]
 }
