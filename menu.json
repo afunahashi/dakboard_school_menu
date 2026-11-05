@@ -1,6 +1,6 @@
 {
   "weekLabel": "Nov 2 – Nov 6, 2026",
-  "updatedAt": "2026-11-05T01:42:18.174540-05:00",
+  "updatedAt": "2026-11-05T14:54:59.262707-05:00",
   "days": [
     {
       "iso": "2026-11-02",
@@ -63,6 +63,10 @@
           "note": ""
         },
         {
+          "name": "Cheese Bosco Stick",
+          "note": ""
+        },
+        {
           "name": "Breakfast Maple Beligan Waffle",
           "note": ""
         },
@@ -77,7 +81,15 @@
           "note": ""
         },
         {
+          "name": "Halal Burger",
+          "note": ""
+        },
+        {
           "name": "Cheese Nachos",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Chicken Tenders",
           "note": "Vegetarian"
         },
         {
