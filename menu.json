@@ -1,6 +1,6 @@
 {
   "weekLabel": "Nov 9 – Nov 13, 2026",
-  "updatedAt": "2026-11-12T10:10:15.924115-05:00",
+  "updatedAt": "2026-11-12T18:36:44.552430-05:00",
   "days": [
     {
       "iso": "2026-11-09",
@@ -123,6 +123,10 @@
       ],
       "lunch": [
         {
+          "name": "Halal Burger",
+          "note": ""
+        },
+        {
           "name": "Hot Wings",
           "note": ""
         },
@@ -136,6 +140,10 @@
         },
         {
           "name": "BBQ Veggie Nuggets",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Cheese Quesadilla",
           "note": "Vegetarian"
         },
         {
