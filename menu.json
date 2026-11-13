@@ -1,6 +1,6 @@
 {
   "weekLabel": "Nov 9 – Nov 13, 2026",
-  "updatedAt": "2026-11-12T18:36:44.552430-05:00",
+  "updatedAt": "2026-11-13T01:41:04.327710-05:00",
   "days": [
     {
       "iso": "2026-11-09",
@@ -78,6 +78,10 @@
           "note": ""
         },
         {
+          "name": "Veggie Nuggets",
+          "note": "Vegetarian"
+        },
+        {
           "name": "Cheese Quesadilla",
           "note": "Vegetarian"
         },
@@ -87,10 +91,6 @@
         },
         {
           "name": "Savory Breaded Chicken Sandwich",
-          "note": "Vegetarian"
-        },
-        {
-          "name": "Veggie Nuggets",
           "note": "Vegetarian"
         },
         {
