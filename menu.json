@@ -1,6 +1,6 @@
 {
   "weekLabel": "Nov 16 – Nov 20, 2026",
-  "updatedAt": "2026-11-16T01:23:40.255357-05:00",
+  "updatedAt": "2026-11-16T16:58:46.197434-05:00",
   "days": [
     {
       "iso": "2026-11-16",
@@ -67,7 +67,11 @@
           "note": ""
         },
         {
-          "name": "Cheese Quesadilla",
+          "name": "Breaded Mozzarella Cheese Sticks",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Veggie Nuggets",
           "note": "Vegetarian"
         },
         {
