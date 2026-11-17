@@ -1,6 +1,6 @@
 {
   "weekLabel": "Nov 16 – Nov 20, 2026",
-  "updatedAt": "2026-11-17T02:51:55.060265-05:00",
+  "updatedAt": "2026-11-17T15:52:22.701744-05:00",
   "days": [
     {
       "iso": "2026-11-16",
@@ -71,7 +71,23 @@
           "note": "Vegetarian"
         },
         {
+          "name": "Grilled Cheese Sandwich",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Four Cheese Pizza",
+          "note": "Vegetarian"
+        },
+        {
           "name": "Veggie Nuggets",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Chicken Tenders",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Celery Sticks",
           "note": "Vegetarian"
         },
         {
