@@ -1,6 +1,6 @@
 {
   "weekLabel": "Nov 16 – Nov 20, 2026",
-  "updatedAt": "2026-11-18T02:24:18.951458-05:00",
+  "updatedAt": "2026-11-19T02:20:56.114366-05:00",
   "days": [
     {
       "iso": "2026-11-16",
@@ -59,7 +59,7 @@
       ],
       "lunch": [
         {
-          "name": "Burrito Chicken",
+          "name": "Fajita Chicken",
           "note": ""
         },
         {
@@ -129,6 +129,14 @@
         },
         {
           "name": "Pizza Crunchers",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Breaded Mozzarella Cheese Sticks",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Fajita Chicken",
           "note": "Vegetarian"
         },
         {
