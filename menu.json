@@ -1,6 +1,6 @@
 {
   "weekLabel": "Nov 23 – Nov 27, 2026",
-  "updatedAt": "2026-11-23T02:32:35.765664-05:00",
+  "updatedAt": "2026-11-23T18:51:16.412984-05:00",
   "days": [
     {
       "iso": "2026-11-23",
@@ -9,6 +9,10 @@
       "breakfast": [
         {
           "name": "Cheese Bosco Stick",
+          "note": ""
+        },
+        {
+          "name": "Pepperoni Bosco Stick",
           "note": ""
         },
         {
@@ -26,7 +30,7 @@
           "note": ""
         },
         {
-          "name": "Breakfast Maple Beligan Waffle",
+          "name": "Belgian Waffle",
           "note": ""
         },
         {
