@@ -1,6 +1,6 @@
 {
   "weekLabel": "Nov 23 – Nov 27, 2026",
-  "updatedAt": "2026-11-24T04:50:52.763240-05:00",
+  "updatedAt": "2026-11-24T17:24:02.601322-05:00",
   "days": [
     {
       "iso": "2026-11-23",
@@ -72,6 +72,18 @@
         },
         {
           "name": "Crispy Chicken Caesar Salad",
+          "note": "Grab & Go"
+        },
+        {
+          "name": "Chicken Tenders",
+          "note": "Grab & Go"
+        },
+        {
+          "name": "Veggie Nuggets",
+          "note": "Grab & Go"
+        },
+        {
+          "name": "Belgian Waffle",
           "note": "Grab & Go"
         }
       ]
