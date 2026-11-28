@@ -1,40 +1,36 @@
 {
-  "weekLabel": "Nov 23 – Nov 27, 2026",
-  "updatedAt": "2026-11-27T16:14:27.319463-05:00",
+  "weekLabel": "Nov 30 – Dec 4, 2026",
+  "updatedAt": "2026-11-28T02:43:49.636187-05:00",
   "days": [
     {
-      "iso": "2026-11-23",
+      "iso": "2026-11-30",
       "weekday": "MONDAY",
-      "displayDate": "Nov 23",
+      "displayDate": "Nov 30",
       "breakfast": [
-        {
-          "name": "Cheese Bosco Stick",
-          "note": ""
-        },
         {
           "name": "Pepperoni Bosco Stick",
           "note": ""
         },
         {
-          "name": "Mini Maple Pancakes",
+          "name": "Breakfast Maple Beligan Waffle",
           "note": ""
         },
         {
-          "name": "Peach Parfait",
+          "name": "Very Berry Parfait",
           "note": ""
         }
       ],
       "lunch": [
         {
-          "name": "Chicken Tenders",
+          "name": "BBQ Drumstick",
           "note": ""
         },
         {
-          "name": "Belgian Waffle",
+          "name": "Mini Corn Bread",
           "note": ""
         },
         {
-          "name": "Veggie Nuggets",
+          "name": "BBQ Veggie Nuggets",
           "note": "Vegetarian"
         },
         {
@@ -44,20 +40,123 @@
       ]
     },
     {
-      "iso": "2026-11-24",
+      "iso": "2026-12-01",
       "weekday": "TUESDAY",
-      "displayDate": "Nov 24",
+      "displayDate": "Dec 1",
       "breakfast": [
         {
-          "name": "Maple Chicken Sausage & Biscuit",
+          "name": "Chicken Biscuit Sandwich",
           "note": ""
         },
         {
-          "name": "Apple Cinnamon Scone",
+          "name": "French Toast Sticks",
           "note": ""
         },
         {
-          "name": "Peach Parfait",
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Beef Soft Taco",
+          "note": ""
+        },
+        {
+          "name": "Cheese Quesadilla",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Beef Taco Salad",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-12-02",
+      "weekday": "WEDNESDAY",
+      "displayDate": "Dec 2",
+      "breakfast": [
+        {
+          "name": "Breakfast Burrito",
+          "note": ""
+        },
+        {
+          "name": "Mini Maple Pancakes",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Savory Breaded Chicken Sandwich",
+          "note": ""
+        },
+        {
+          "name": "Homemade Macaroni & Cheese",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Crispy Chicken Caesar Salad",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-12-03",
+      "weekday": "THURSDAY",
+      "displayDate": "Dec 3",
+      "breakfast": [
+        {
+          "name": "Bagel",
+          "note": ""
+        },
+        {
+          "name": "Pumpkin Bread",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
+          "note": ""
+        }
+      ],
+      "lunch": [
+        {
+          "name": "Cheeseburger",
+          "note": ""
+        },
+        {
+          "name": "Hamburger",
+          "note": ""
+        },
+        {
+          "name": "Veggie Burger",
+          "note": "Vegetarian"
+        },
+        {
+          "name": "Crispy Chicken Caesar Salad",
+          "note": "Grab & Go"
+        }
+      ]
+    },
+    {
+      "iso": "2026-12-04",
+      "weekday": "FRIDAY",
+      "displayDate": "Dec 4",
+      "breakfast": [
+        {
+          "name": "Turkey Bacon, Egg & Cheese Bagel",
+          "note": ""
+        },
+        {
+          "name": "Freshly Baked Glazed Cinnamon Roll",
+          "note": ""
+        },
+        {
+          "name": "Very Berry Parfait",
           "note": ""
         }
       ],
@@ -73,41 +172,8 @@
         {
           "name": "Crispy Chicken Caesar Salad",
           "note": "Grab & Go"
-        },
-        {
-          "name": "Chicken Tenders",
-          "note": "Grab & Go"
-        },
-        {
-          "name": "Veggie Nuggets",
-          "note": "Grab & Go"
-        },
-        {
-          "name": "Belgian Waffle",
-          "note": "Grab & Go"
         }
       ]
-    },
-    {
-      "iso": "2026-11-25",
-      "weekday": "WEDNESDAY",
-      "displayDate": "Nov 25",
-      "breakfast": [],
-      "lunch": []
-    },
-    {
-      "iso": "2026-11-26",
-      "weekday": "THURSDAY",
-      "displayDate": "Nov 26",
-      "breakfast": [],
-      "lunch": []
-    },
-    {
-      "iso": "2026-11-27",
-      "weekday": "FRIDAY",
-      "displayDate": "Nov 27",
-      "breakfast": [],
-      "lunch": []
     }
   ]
 }
